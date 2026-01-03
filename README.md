@@ -36,6 +36,7 @@ Objetivo:
 No momento, meus repositórios representam estudos e exercícios, acompanhando minha evolução como desenvolvedor iniciante.
 
 Fun facts:
+
 • Gosto de café ☕  
 • One Piece é meu anime favorito  
 • Também curto Solo Leveling  
